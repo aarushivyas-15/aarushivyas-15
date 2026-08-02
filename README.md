@@ -1,6 +1,6 @@
 Hey there 👋 
 
-I’m Aarushi Vyas<br><br>🎓 2nd-year student<br>🤖 Curious about AI & Machine Learning and how intelligence meets code<br>💬 Learning and practicing Web Development, C, and C++<br>⚡ Fun fact: Not coding? Probably singing 🎤
+I’m Aarushi Vyas<br><br>🎓 3rd-year student<br>🤖 Curious about AI & Machine Learning and how intelligence meets code<br>💬 Learning and practicing Web Development, C, and C++<br>⚡ Fun fact: Not coding? Probably singing 🎤
 
 
 ## 🌐 Socials:
